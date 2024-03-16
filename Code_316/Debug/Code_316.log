@@ -1,0 +1,4 @@
+﻿  test.c
+E:\VSProjects\C_Pointer\Code_316\test.c(255): warning C4715: “Max”: 不是所有的控件路径都返回值
+E:\VSProjects\C_Pointer\Code_316\test.c(266): warning C4715: “Min”: 不是所有的控件路径都返回值
+  Code_316.vcxproj -> E:\VSProjects\C_Pointer\Code_316\Debug\Code_316.exe

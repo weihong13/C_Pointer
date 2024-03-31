@@ -1,0 +1,3 @@
+﻿  test.c
+E:\VSProjects\C_Pointer\Code_331\test.c(168,6): warning C4013: “gets”未定义；假设外部返回 int
+  Code_331.vcxproj -> E:\VSProjects\C_Pointer\Code_331\Debug\Code_331.exe
